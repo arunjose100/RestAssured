@@ -1,0 +1,9 @@
+/.settings
+/bin/*
+/drivers/*
+/lib/*
+/Screenshots/*
+/test-output/*
+/.classpath
+/.project
+*.xml

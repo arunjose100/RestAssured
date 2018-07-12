@@ -1,1 +1,2 @@
 Please implement Dataprovider and factory in framework
+Adding HTML Reporting also
